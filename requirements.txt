@@ -1,2 +1,7 @@
-á²[äŒU°æ8F×>¤Ö€/<°´ÁÁÀl8«(»o
-¯ñ‚:Ð«uf‹Âàîèµ^DT–2È#~„g­àˆÄu•¯y/îƒ® |£šŠ-&YÇ+ßš‚âG{¬í8ŠHo%fÛ°ÇJ»l
+asgiref==3.8.1
+Django==5.1.2
+gitdb==4.0.11
+GitPython==3.1.43
+smmap==5.0.1
+sqlparse==0.5.1
+typing_extensions==4.12.2
